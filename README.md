@@ -1,5 +1,7 @@
 Este projeto foi desenvolvido com o objetivo de implementar operações fundamentais de Álgebra Linear, fornecendo uma base para cálculos matemáticos, estudos acadêmicos e aplicações computacionais. Ele contém classes para construção e manipulação de matrizes e vetores do zero, além de uma classe dedicada às operações matriciais e vetoriais.
+
 🔹 Principais Classes e Funcionalidades
+
 🔹 Classe Matrix
 
 - Criação de matrizes de dimensões arbitrárias;
